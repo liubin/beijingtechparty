@@ -1,0 +1,54 @@
+---
+layout: post
+title: "2016年2月份活动"
+date: 2016-02-16 21:37:48 +0800
+comments: true
+categories: 
+---
+
+## Druid大数据架构技术交流（2016/02/20）
+
+[Druid](http://www.druid.io) 作为一个开源的大数据OLAP分析引擎，得到了越来越多的关注。在Druid co-founder Fangjin Yang的支持下，阿里，OneAPM，Hulu，小米，蚂蜂窝，滴滴，携程等公司的同学共同成立了Druid China User Group的微信群，并决定与2016年2月20日下午举办第一次线下技术交流，欢迎对大数据分析，Druid，OLAP引擎等话题感兴趣的同学参加：）
+
+> ** 时间： ** 2016年2月20日（周六）下午2点到5点
+
+> ** 地点： ** 北京市海淀区东升科技园A区5号楼4层（地铁8号线西小口站C口出来后，向东200米，再向左50米进去即到）
+
+
+技术交流议题
+
+* Druid在Hulu的应用
+
+演讲人：张汉生，Hulu北京AdIntelligence组软件研发工程师。主要参与Hulu广告定位和广告预测等相关工作，同时负责维护Druid集群。
+
+* Real-time Architecture for Online Travel
+
+演讲人：Jin Yu，蚂蜂窝技术VP兼首席架构师。蚂蜂窝是中国最大的在线旅游社区，拥有超过1亿用户。在加入蚂蜂窝之前，Jin Yu是OpenX的技术VP和首席架构师，负责公司的数据战略，移动产品线和整体架构，其中就包括由5个全球数据中心的6000多台服务器组成的数据业务。Jin Yu还是连续创业者，他联合创办过2个创业公司：移动社交大数据领域的Portaura和电商搜索引擎领域的Martsoft。
+
+* OneAPM的Druid分析实践
+
+演讲人：刘麒赟，OneAPM大数据高级架构师，主要负责OneAPM大数据架构的设计和开发工作。加入OneAPM之前是IBM BigInsights的大数据架构师，是多个Apache开源大数据项目的Contributor。
+
+
+点击 [这里](http://www.huodongxing.com/event/4322200984100) 报名。
+
+
+## 北京Go语言开发者聚会（2016/02/27）
+
+北京GDG联合Go语言北京用户组共同举办Go语言开发者聚会
+
+> ** 活动时间：** 2月27日 13:30-17:30
+
+> ** 活动地点：** 北京市海淀区中关村大街11号E世界财富中心A座B2
+
+议题：
+
+- Go语言北京用户组简介 & Go语言速览，演讲者：郝林，时长：20分钟
+- Golang高性能场景实践，演讲者：杨武明，时长：40分钟
+- 聊聊Goroutine,Java Thread,Scala Actor那些事，演讲者：王渊命，时长：40分钟
+- Go自动生成SDK实践，演讲者：蒙卓，时长：40分钟
+- Golang移动端开发，演讲者：郎爽，时长：40分钟
+
+点击 [这里](https://www.gdgdocs.org/forms/d/1kPf0MSLpWkEvkBUt0UepDw_Y4ZDnnMyT_vIe5dfadFQ/viewform#rd) 报名。
+
+

@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://liubin.github.io/beijingtechparty
+title: 北京技术沙龙导航
+subtitle: 北京技术沙龙导航
+author: bin liu
 simple_search: https://www.google.com/search
 description:
 
@@ -13,10 +13,12 @@ description:
 # You can customize the format as defined in
 # http://www.ruby-doc.org/core-1.9.2/Time.html#method-i-strftime
 # Additionally, %o will give you the ordinal representation of the day
-date_format: "ordinal"
+# date_format: "ordinal"
+date_format: "%Y-%m-%d"  # e.g. 2014-07-03
+time_format: "%H:%M"     # 24 hour time
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
+subscribe_rss: /beijingtechparty/atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
@@ -26,10 +28,10 @@ email:
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /
+root: /beijingtechparty
 permalink: /blog/:year/:month/:day/:title/
 source: source
-destination: public
+destination: public/beijingtechparty
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
